@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'json', '1.8.2'
+gem 'dotenv', '2.0.1'
+gem 'httparty', '0.13.3'
+gem 'twitter', '5.14.0'
